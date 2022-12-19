@@ -1,0 +1,29 @@
+{
+    "changeNavLanguage": {
+        "logo":"Movies app",
+        "nav-link1":"Home",
+        "nav-link2":"Movie list",
+        "dashboard-btn":"Dashboard"
+    },
+    "changeCardDirectLanguage":{
+        "0":"Directed by Todd Phillips",
+        "1":"Directed by Jon Watts",
+        "2":"Directed by Chad Stahelski",
+        "3":"Directed by Luc Besson",
+        "4":"Directed by Christopher Nolan",
+        "5":"Directed by Jaume Collet-Serra"
+    },
+    "changeCardDescrLanguage":{
+        "0":"The Joker is noted for his clownlike appearance and sick humour. The Joker, initially portrayed as a small-time crook, was disfigured and driven insane by an accident with toxic chemicals. He was depicted with chalk-white skin, ruby-red lips permanently fixed in a demonic grin, and bright green hair.",
+        "1":"Turns to Doctor Strange to make the world forget that he is Spider-Man. The spell goes horribly wrong and shatters the multiverse, bringing in monstrous villains that could destroy the world.",
+        "2":"Bound by an inescapable blood debt to the Italian crime lord, Santino D'Antonio, and with his precious 1969 Mustang still stolen, John Wick--the taciturn and pitiless assassin who thirsts for seclusion--is forced to visit Italy to honour his promise.",
+        "3":"Reclusive, taciturn, and lethally efficient, the plant-loving New Yorker and professional hitman, or cleaner, Léon, sees his world turn upside down, when the entire family of his tough twelve-year-old neighbour, Mathilda, is wiped out by a corrupt DEA agent.",
+        "4":"Interstellar is about Earth's last chance to find a habitable planet before a lack of resources causes the human race to go extinct. The film's protagonist is Cooper (Matthew McConaughey), a former NASA pilot who is tasked with leading a mission through a wormhole to find a habitable planet in another galaxy.",
+        "5":"Black Adam appears as a featured character in DC's weekly 52 comic book. Depicted as the violent protector of the nation of Kahndaq, Adam kills several supervillains in public and on television to demonstrate his views. As a result, he is distrusted by the superhuman community."
+    },
+    "changeCardCastLanguage":{
+        "0":"Cast",
+        "1":"Read More"
+    }
+    
+}

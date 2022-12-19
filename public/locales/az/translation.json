@@ -1,0 +1,32 @@
+
+{
+    "changeNavLanguage": {
+        "logo":"Filmlərin tətbiqi",
+        "nav-link1":"Ana Səhifə",
+        "nav-link2":"Filmlərin siyahısı",
+        "dashboard-btn":"Idarə paneli"
+    },
+    "changeCardDirectLanguage": {
+        "0":"Rejissor Todd Phillips",
+        "1":"Rejissor Jon Watts",
+        "2":"Rejissor Çad Stahelski",
+        "3":"Rejissor Luc Besson",
+        "4":"Rejissor Kristofer Nolan",
+        "5":"Rejissor Jaume Collet-Serra"
+    },
+    "changeCardDescrLanguage": {
+        "0":"Joker təlxək görünüşü və xəstə yumoru ilə diqqət çəkir. Əvvəlcə kiçik bir fırıldaqçı kimi təsvir edilən Joker, zəhərli kimyəvi maddələrlə qəza nəticəsində eybəcərləşdi və dəli oldu. O, təbaşir kimi ağ dəri, şeytani təbəssümlə sabitlənmiş yaqut-qırmızı dodaqları və parlaq yaşıl saçları ilə təsvir edilmişdir.",
+        "1":"Dünyaya Hörümçək Adam olduğunu unutdurmaq üçün Doktor Strenc-ə müraciət edir. Bu sehr dəhşətli dərəcədə yanlış gedir və dünyanı məhv edə biləcək dəhşətli yaramazları gətirərək çoxlu dünyanı parçalayır.",
+        "2":"İtalyan kriminal lordu Santino D'Antonio qarşısında qaçılmaz qan borcu ilə bağlı olan və 1969-cu ildə oğurlanmış qiymətli Mustangı ilə təcrid olmağa susayan səssiz və amansız qatil Con Uik verdiyi sözə əməl etmək üçün İtaliyaya getməyə məcbur olur.",
+        "3":"Təkcə, sakit və ölümcül təsirli, bitkisevər Nyu Yorklu və peşəkar cinayətkar və ya təmizlikçi Leon, on iki yaşlı sərt qonşusu Mathildanın bütün ailəsi tərəfindən məhv edildiyi zaman dünyasının alt-üst olduğunu görür. korrupsiyalaşmış DEA agenti.",
+        "4":"Ulduzlararası, resursların çatışmazlığı bəşər övladının yox olmasına səbəb olana qədər Yerin yaşamaq üçün əlverişli planet tapmaq üçün son şansı haqqındadır. Filmin qəhrəmanı keçmiş NASA pilotu Kuperdir (Metyu Makkonahi), başqa qalaktikada yaşayış üçün əlverişli planet tapmaq üçün soxulcan dəliyindən missiyaya rəhbərlik etmək tapşırılıb.",
+        "5":"Black Adam DC-nin həftəlik 52 komiks kitabında seçilən personaj kimi görünür. Kahndaq millətinin zorakı müdafiəçisi kimi təsvir edilən Adam fikirlərini nümayiş etdirmək üçün ictimai yerlərdə və televiziyada bir neçə nəzarətçini öldürür. Nəticədə fövqəlbəşər cəmiyyət ona etibar etmir."
+    },
+    "changeCardCastLanguage":{
+        "0":"Baş rolda",
+        "1":"Daha Ətraflı"
+    }
+    
+
+    
+}
