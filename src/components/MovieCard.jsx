@@ -1,4 +1,3 @@
-import { t } from "i18next";
 import React from "react";
 import { Link } from "react-router-dom";
 import '../config/i18n';
